@@ -1,0 +1,36 @@
+
+.standard {
+    border: 5px solid teal;
+    background-color: #A5CFE3;
+    padding: 40px;
+    margin: 40px;
+    width: 350px;
+    height: 150px;
+}
+div {
+    display: block;
+}
+body {
+    background-color: #fff;
+    color: #333;
+    font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding: 30px;
+    margin: 0;
+}
+box {
+    border: 5px solid teal;
+    margin:5%;
+    width: 200px;
+    }
+    .minibox {
+    border: 5px solid teal;
+    margin:5%;
+    width: 50px;
+    }
+    .width {
+    width: 100%;
+    }
+    .max {
+    max-width: 100%;
+    }
+    
